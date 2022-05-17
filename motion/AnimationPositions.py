@@ -5,6 +5,10 @@ from Quaternions import Quaternions
 import Animation
 import AnimationStructure
     
+	
+	
+	
+	
 def constrain(positions, constraints):
     """
     Constrain animation positions given
